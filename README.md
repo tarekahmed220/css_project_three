@@ -1,2 +1,2 @@
-# project_three
+# Third project
 Elzero templates practice
